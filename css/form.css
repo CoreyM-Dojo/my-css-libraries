@@ -20,7 +20,7 @@ form {
     background-color: bisque;
 }
 
-form#register {
+form#columns {
     display: flex;
     align-items: center;
     flex-direction: column;
@@ -87,6 +87,10 @@ input.text {
 
 label {
     margin-right: 5px;
+}
+
+select {
+    padding: 3px;
 }
 
 
